@@ -1,4 +1,4 @@
-dns_compare.py
+dns_compare
 ==============
 Compare data from a BIND zone file to data returned by an authoritative DNS server.
 
@@ -137,4 +137,5 @@ All other records are correctly exported in the BIND format. the only problems i
 Authors
 ------
 Joe Miller [Github](http://github.com/joemiller) [Joe Miller](http://joemiller.me) [Twitter](https://twitter.com/miller_joe)
+
 Dave van Duivenbode [Github](https://github.com/Sefiris) [Twitter](https://twitter.com/Sefiris)
