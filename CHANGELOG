@@ -1,3 +1,8 @@
+0.04   2020/11/18
+- Refactored for python3 support across the board
+- Updated README.md with my own motivations and author information
+- Updated README.md, added cloudflare export example
+
 0.0.3   2013/08/06
 - added setup.py to allow for installation via pip
 - changed exit values from negative numbers to positive numbers
@@ -5,7 +10,7 @@
 - added LICENSE
 
 0.0.2   2013/07/11
-- improved output 
+- improved output
 
 0.0.1   2010/12/16
 - initial release
